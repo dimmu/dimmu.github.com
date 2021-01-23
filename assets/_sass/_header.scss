@@ -1,0 +1,123 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+  height: 37%;
+  text-align: center;
+  background: url('/assets/img/title.png') no-repeat center center scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+
+  .headline { padding: 120px 0; }
+
+  h1 {
+    font-size: 130px;
+    background: #fff;
+    font-family: "Helvetica Neue";
+    font-weight: 100;
+    color: white;
+    background: rgba(0,0,0,0.0);
+  }
+
+  h2 {
+    font-size: 77px;
+    background: #fff;
+    font-family: "Helvetica Neue";
+    font-weight: 100;
+    color: black;
+    background: rgba(0,0,0,0.0);
+  }
+
+  h2::after {
+  content: '';
+  width: 80px;
+  display: block;
+  background: none;
+  height: 0px;
+  margin: 30px auto;
+  line-height: 1.1;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+
+#particles {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+
+#intro {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  padding: 0 20px;
+  width: 100%;
+  text-align: center;
+}
+
+
+.btn {
+  position: absolute;
+  top: 80%;
+  margin-left: -100px;
+  text-align: center;
+  display: inline-block;
+  padding: 15px 30px;
+  border: 1px solid white;
+  text-transform: uppercase;
+  font-family: "Helvetica Neue";
+  letter-spacing: 0.015em;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 1;
+  color: white;
+  text-decoration: none;
+  -webkit-transition: all 0.4s;
+     -moz-transition: all 0.4s;
+       -o-transition: all 0.4s;
+          transition: all 0.4s;
+}
+.btn:hover {
+  color: darkred;
+  border-color: darkred;
+}
+
+  @media(max-width:1200px) {
+    h1 { font-size: 140px; }
+    h2 { font-size: 63px; }
+  }
+
+  @media(max-width:991px) {
+    h1 { font-size: 105px; }
+    h2 { font-size: 50px; }
+  }
+
+  @media(max-width:668px) {
+    h1 { font-size: 70px; }
+    h2 { font-size: 32px; }
+  }
+
+  @media(max-width:640px) {
+    .headline { padding: 75px 0 25px 0; }
+    h1 { font-size: 60px; }
+    h2 { font-size: 30px; }
+  }
+}

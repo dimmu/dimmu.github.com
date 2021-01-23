@@ -1,0 +1,24 @@
+---
+id: contact
+name: Contact
+heading: Contact
+subheading:
+image: "assets/img/hello.png"
+---
+
+<br/>
+You can reach me with varying speeds at: <br/>
+<i class="fas fa-envelope"></i> dathanasakis [AT] gotbim [DOT] com<br/>
+
+<br/>or perhaps you can try contacting me elsewhere <br/>
+
+<a href="mailto: dathanasakis [AT] gotbim [DOT] com"  target="blank">
+<i class="fas fa-envelope fa-2x"></i></a>
+<a href="https://keybase.io/dimmu"  target="blank">
+<i class="fab fa-keybase fa-2x"></i></a>
+<a href="https://github.com/dimmu"  target="blank">
+<i class="fab fa-github-square fa-2x"></i></a>
+<a href="https://www.linkedin.com/in/dimitrios-athanasakis-aa537b4/"  target="blank">
+<i class="fab fa-linkedin fa-2x"></i></a>
+<a href="https://www.twitter.com/dimmu/"  target="blank">
+<i class="fab fa-twitter fa-2x"></i></a>

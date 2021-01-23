@@ -14,7 +14,7 @@ I'm a machine learning researcher with more than 15 years of experience in the b
 
 <br/>
 
-<a href="https://gotbim.com/files/Dimitrios_Athanasakis_cv_2021.pdf" target="blank">
+<a href="https://gotbim.com/files/Dimitrios_Athanasakis_CV_2021.pdf" target="blank">
   <i class="ai ai-cv-square ai-2x"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=SiPzUuYAAAAJ&view_op=list_works&sortby=pubdate" target="blank">
   <i class="ai ai-google-scholar-square ai-2x"></i></a>

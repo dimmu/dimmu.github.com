@@ -24,9 +24,6 @@ code and package <a href="LINKCODE" target="blank"><i class="fas fa-keyboard"></
 [Learning Non-Linear Feature Maps](https://arxiv.org/abs/1311.5636){:target="blank"} (with John Shawe-Taylor and Delmiro Fernandez-Reyes)<br/>
 **ICLR workshop paper** (2014)<br/>
 
-[Learning Non-Linear Feature Maps](https://arxiv.org/abs/1311.5636){:target="blank"} (with John Shawe-Taylor and Delmiro Fernandez-Reyes)<br/>
-**ICLR workshop paper** (2014)<br/>
-
 [Challenges in representation learning: A report on three machine learning contests](https://arxiv.org/abs/1307.0414){:target="blank"} (with Ian J Goodfellow, Dumitru Erhan, Pierre Luc Carrier, Aaron Courville, Mehdi Mirza, Ben Hamner, Will Cukierski, Yichuan Tang, David Thaler, Dong-Hyun Lee, Yingbo Zhou, Chetan Ramaiah, Fangxiang Feng, Ruifan Li, Xiaojie Wang, John Shawe-Taylor, Maxim Milakov, John Park, Radu Ionescu, Marius Popescu, Cristian Grozea, James Bergstra, Jingjing Xie, Lukasz Romaszko, Bing Xu, Zhang Chuang and Yoshua Bengio) <br/>
 **ICONIP** (2013)<br/>
 
